@@ -4,7 +4,7 @@
 #
 Name     : powerline-fonts
 Version  : 1.2
-Release  : 9
+Release  : 10
 URL      : http://localhost/cgit/projects/powerline-fonts/snapshot/powerline-fonts-1.2.tar.gz
 Source0  : http://localhost/cgit/projects/powerline-fonts/snapshot/powerline-fonts-1.2.tar.gz
 Summary  : No detailed summary available
